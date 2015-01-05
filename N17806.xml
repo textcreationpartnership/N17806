@@ -111,8 +111,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:023064_0000_0FBC1B612F945410"/>
-            <pb facs="tcp:023064_0001_0FBC1B62156850F0" rendition="simple:additions"/>
+            <pb facs="unknown:023064_0000_0FBC1B612F945410"/>
+            <pb facs="unknown:023064_0001_0FBC1B62156850F0"
+                rendition="simple:additions"/>
             <p>AN EPISTLE TO THE REVEREND Mr. GEORGE WHITEFIELD: Written in the Year MDCCLV.</p>
             <p>By CHARLES WESTLEY, A. M. Late Student of <hi>Chriſt-Church,</hi> OXFORD.</p>
             <p>
@@ -121,8 +122,9 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:023064_0002_0FBC1B65AA092F48" rendition="simple:additions"/>
-            <pb facs="tcp:023064_0003_0FBC1B6695656EA8"/>
+            <pb facs="unknown:023064_0002_0FBC1B65AA092F48"
+                rendition="simple:additions"/>
+            <pb facs="unknown:023064_0003_0FBC1B6695656EA8"/>
             <head>AN EPISTLE TO THE REVEREND Mr. GEORGE WHITEFIELD.</head>
             <lg>
                <l>COME on, my Whitefield! (ſince the ſtrife is paſt,</l>
@@ -140,7 +142,7 @@
                <l>Too long we hſt'ned to the couz'ning fiend,</l>
                <l>Whoſe trumpet ſounded, "For the faith contend!"</l>
                <l>
-                  <pb n="4" facs="tcp:023064_0004_0FBC1B685720BB08"/>
+                  <pb n="4" facs="unknown:023064_0004_0FBC1B685720BB08"/>
 With haſty blindfold rage, in error's night,</l>
                <l>How did we with our fellow-ſoldiers fight!</l>
                <l>We could not then our father's children know,</l>
@@ -174,7 +176,7 @@ With haſty blindfold rage, in error's night,</l>
                <l>And, more than conquerors, in the harneſs die.</l>
             </lg>
             <lg>
-               <pb n="5" facs="tcp:023064_0005_0FBC1B6B49D526A0"/>
+               <pb n="5" facs="unknown:023064_0005_0FBC1B6B49D526A0"/>
                <l>For whether I am born to <hi>"bluſh above,"</hi>
                </l>
                <l>On earth ſuſpicious of electing love,</l>
@@ -209,7 +211,7 @@ With haſty blindfold rage, in error's night,</l>
                <l>Then, when we ſerv'd our God thro' fear alone,</l>
                <l>Our views, our ſtudies, and our hearts were one;</l>
                <l>
-                  <pb n="6" facs="tcp:023064_0006_0FBC1B6D598E4C20"/>
+                  <pb n="6" facs="unknown:023064_0006_0FBC1B6D598E4C20"/>
 No ſmalleſt difference damp'd the ſocial flame:</l>
                <l>In Moſes' ſchool we thought, and ſpake the ſame:</l>
                <l>And muſt we, now in Chriſt, with ſhame confeſs,</l>
@@ -243,7 +245,7 @@ No ſmalleſt difference damp'd the ſocial flame:</l>
                <l>From folly and ſelf-love Opinion roſe,</l>
                <l>To ſever friends who never yet were foes;</l>
                <l>
-                  <pb n="7" facs="tcp:023064_0007_0FBC1B6EF1FE7258"/>
+                  <pb n="7" facs="unknown:023064_0007_0FBC1B6EF1FE7258"/>
 To baffle and divert our nobleſt aim,</l>
                <l>Confound our pride, and cover us with ſhame;</l>
                <l>To make us bluſh beneath her ſhort-liv'd pow'r,</l>
